@@ -1,1 +1,10 @@
 # IT-230
+The application was developed to help users work with course information through both Console and WPF applications. The project required me to debug existing C# code, create and use classes and objects, work with arrays, and implement functionality based on the provided requirements. The overall goal was to create an application that was functional, understandable, and easy for users to interact with.
+
+I believe I did particularly well with debugging and testing the application. I worked through the errors individually, used the compiler messages to identify problems, and tested the program after making changes. I also compared my code to the requirements to make sure I was fixing the actual functionality rather than only making the program compile.
+
+The Console and WPF applications provided similar functionality but used different approaches to the user experience. The Console application used text prompts and keyboard input, which kept the design simple and focused on the program logic. The WPF application used a graphical interface with windows and controls, making it more visual and user-friendly. I designed the interfaces around making the available actions clear and easy for the user to understand.
+
+When debugging and coding, I approached problems one at a time and tested my changes frequently. I used compiler and runtime errors to identify problems, reviewed the existing code to understand its intended purpose, and compared my implementation with the assignment requirements. These strategies can be applied to future projects because breaking larger problems into smaller pieces makes debugging more manageable and helps prevent additional errors.
+
+One challenge was working with existing code that contained multiple errors while still preserving the intended functionality of the application. I had to look beyond individual compiler errors and understand how the different classes, methods, objects, and interface components worked together. Adapting the same general requirements to both Console and WPF applications also required me to think about how different interface designs could better support the user.
